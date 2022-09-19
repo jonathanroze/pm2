@@ -10,6 +10,7 @@
 <br/><br/>
 
 
+
 <a title="PM2 Downloads">
   <img src="https://img.shields.io/npm/dm/pm2" alt="Downloads per Month"/>
 </a>
@@ -31,6 +32,14 @@
 <br/>
 </div>
 
+<h1>Why did I fork ?</h1>
+
+In order to run latest version of PM2. I had issue with PM2 5.1.0, a lot of EPIPE errors.
+
+
+<br/>
+<br/>
+<br/>
 
 PM2 is a production process manager for Node.js applications with a built-in load balancer. It allows you to keep applications alive forever, to reload them without downtime and to facilitate common system admin tasks.
 
